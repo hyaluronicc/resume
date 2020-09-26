@@ -23,7 +23,8 @@ resume_contact_address:         "Seoul, South Korea"
 resume_header_contact_info:     "Seoul, South Korea • +82 10-5057-2200 • thestrokes319@gmail.com"
 display_header_contact_info:    'true'
 
-resume_header_intro: "<p>Interest: Machine Learning, Deep Learning(NLP), Cloud Services(GCP, Azure, AWS), Visualization(Tableau, Power BI)</p>"
+resume_header_intro: "<p>Interest: Machine Learning, Deep Learning(NLP), Cloud Services(GCP, Azure, AWS), Visualization(Tableau, Power BI).
+Democratization of AI, AI community growth, easy AI application for all</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
