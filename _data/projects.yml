@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# MS project
+- project: NER data making/preprocessing/performance evaluation
+  role: Team member
+  duration: 2019 &mdash; 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Made Korean NER data for cross-lingual representation zero-shot performance evaluation, wrote Korean version of NER guideline, used KoBert, M-Bert, Pytorch, Tensorflow
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Chatbot
+- project: Seoul City Chatbot Hackathon
+  role: Team member
+  duration: 2019
+  url: https://github.com/hyaluronicc/Seoul_AI_Chatbothon_2019
+  description: Crawled texts for water problem themed chatbot, used Transformer model, deployed with Kakao Talk.
+  
+  # Bert
+- project: KORQUAD 1.0
+  role: Team member
+  duration: 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Data preprocessed and evaluated performance in KorQuad 1.0
