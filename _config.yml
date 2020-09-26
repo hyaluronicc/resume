@@ -21,7 +21,7 @@ resume_contact_telephone:       "01050572200"
 resume_contact_address:         "Seoul, South Korea"
 
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "true"
+display_header_contact_info:    true
 
 resume_header_intro: "<p>Interest: Machine Learning, Deep Learning(NLP), Cloud Services(GCP, Azure, AWS), Visualization(Tableau, Power BI)</p>"
 
